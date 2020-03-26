@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="icon" type="image/png" href="/images/school.png">
+	<link rel="icon" type="image/png" href="">
 	<title>Info Covid-19 (Indonesia) - School Programing</title>
 	<meta name="description" content="Stay Safe!!!">
 	<meta charset="utf-8">
@@ -51,6 +51,10 @@ $prov = json_decode($api,true);
 </table>
 		</div>
 	</section>
-
+	<br>
+	<center>
+		<p>Copyright @2020 - MarsHall</p>
+	</center>
+	<br>
 </body>
 </html>
